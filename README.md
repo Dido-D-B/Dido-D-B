@@ -4,17 +4,11 @@
 
 ## About Me
 
-<img align="left" src="https://github.com/user-attachments/assets/d5d80ced-ce8c-4961-ad18-0a153caee332" width="200"/>
-
-
 Hi everyone, I’m Dido 👋  
 
 Six years ago, I moved from Belgium to Berlin, and I’ve been on a journey of learning, growth, and curiosity ever since. After starting my career in Berlin with customer care and sales, I transitioned into **data** — exploring how insights can inform smarter decisions and drive positive change.  
 
 I’m especially motivated by projects with a focus on **culture, environment, and social impact**. This year, I studied at Masterschool and built a portfolio of end-to-end projects using **Python, SQL, Tableau, and Streamlit**. I’ll complete my internship in December 2025 and am excited to begin my first full-time Data Analyst role in early 2026.  
-
-<br clear="left"/>
-
 
 Currently working on:  
   - **Berlin Subdistrict Explorer** – a recommender system & dashboard to explore affordability & lifestyle chatacteristics across 96 Berlin subdistricts.  
