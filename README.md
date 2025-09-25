@@ -11,7 +11,6 @@ Six years ago, I moved from Belgium to Berlin, and I’ve been on a journey of l
 I’m especially motivated by projects with a focus on **culture, environment, and social impact**. This year, I studied at Masterschool and built a portfolio of end-to-end projects using **Python, SQL, Tableau, and Streamlit**. I’ll complete my internship in December 2025 and am excited to begin my first full-time Data Analyst role in early 2026.  
 
 Currently working on:  
-  - **Berlin Subdistrict Explorer** – a recommender system & dashboard to explore affordability & lifestyle chatacteristics across 96 Berlin subdistricts.  
   - **Delivery Time Classifier** – predicting on-time vs. late deliveries for an e-commerce dataset.
 
 Currently learning:
